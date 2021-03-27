@@ -32,6 +32,8 @@ and use the terminal inside visual studio to use the following command
 -npm i axios, cors, react, react-dom, react-router-dom, react-scripts, react-validation, validator, web-vitals
 
 Follow the following steps to get an idea about how it works
+
+
 1.
 ![c4](https://user-images.githubusercontent.com/32956051/112728645-841bc700-8ee5-11eb-86ca-f68ddf5d519e.PNG)
 2.
