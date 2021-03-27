@@ -32,7 +32,8 @@ and use the terminal inside visual studio to use the following command
 -npm i axios, cors, react, react-dom, react-router-dom, react-scripts, react-validation, validator, web-vitals
 
 Follow the following steps to get an idea about how it works
-![Capture](https://user-images.githubusercontent.com/32956051/112590252-c21ecb00-8dbf-11eb-9b0b-4e4a915b54da.PNG)
+![c4](https://user-images.githubusercontent.com/32956051/112728645-841bc700-8ee5-11eb-86ca-f68ddf5d519e.PNG)
+![c5](https://user-images.githubusercontent.com/32956051/112728647-84b45d80-8ee5-11eb-8735-1118f4ab2338.PNG)
 
 Step 5: Refer to package.json file inside the project and install all the necessary node packages with the help of node using terminal inside your Visual Studio if any issue persists
 
