@@ -12,7 +12,7 @@ Softwares - React, Node, MySQL, Xampp
 
 ```
 Step 1: Structure of the application will be as follows 
-The project should look like this: frontend folder should be started with Visual Studio Code, Intellij should be used to open the coopsystem folder and coopsystem.sql is the database file which has to be imported in your MySQL with the database name as coopsystem
+The project should look like this: frontend folder should be started with Visual Studio Code, Intellij should be used to open the coop folder and coopsystem.sql is the database file which has to be imported in your MySQL with the database name as coopsystem
 ![c1](https://user-images.githubusercontent.com/32956051/112727273-11a7e880-8edf-11eb-8b68-43dcafa974dc.PNG)
 
 Step 2: start your Xampp and set up your database
