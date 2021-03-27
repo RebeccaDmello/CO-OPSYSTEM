@@ -16,6 +16,9 @@ The project should look like this: frontend folder should be started with Visual
 ![c1](https://user-images.githubusercontent.com/32956051/112727273-11a7e880-8edf-11eb-8b68-43dcafa974dc.PNG)
 
 Step 2: Start your Xampp and set up your database
+![c2](https://user-images.githubusercontent.com/32956051/112727494-f7bad580-8edf-11eb-8ec3-b65951560769.PNG)
+
+Step 3: Setup your Database and it should look as follows:
 
 
 Step 3:
