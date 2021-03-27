@@ -11,8 +11,13 @@ IDE- Visual Studio Code - React Code, IntelliJ - SpringBoot Code
 Softwares - React, Node, MySQL, Xampp
 
 ```
-
 Step 1: Structure of the application will be as follows 
+The project should look like this: frontend folder should be started with Visual Studio Code, Intellij should be used to open the coopsystem folder and coopsystem.sql is the database file which has to be imported in your MySQL with the database name as coopsystem
+![c1](https://user-images.githubusercontent.com/32956051/112727273-11a7e880-8edf-11eb-8b68-43dcafa974dc.PNG)
+
+
+
+
 NOTE: there are 2 node_modules folder inside the project, one inside frontend and other outside the frontend folder
 
 ![structure](https://user-images.githubusercontent.com/32956051/112590760-96e8ab80-8dc0-11eb-9b2f-7e49428f73b9.PNG)
