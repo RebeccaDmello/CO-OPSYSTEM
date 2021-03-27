@@ -19,6 +19,10 @@ Step 2: Start your Xampp and set up your database
 ![c2](https://user-images.githubusercontent.com/32956051/112727494-f7bad580-8edf-11eb-8ec3-b65951560769.PNG)
 
 Step 3: Setup your Database and it should look as follows:
+
+
+
+
 ![c3](https://user-images.githubusercontent.com/32956051/112727564-4c5e5080-8ee0-11eb-8a9e-25df15f028f4.PNG)
 
 Step 3:
