@@ -47,7 +47,9 @@ Step 7: After node_modules have been installed in coop and frontend folder, you 
 
 
 Video of the Running Application:
+```
 1.Setting up the application
 https://user-images.githubusercontent.com/32956051/112764578-02e43300-8fbe-11eb-9702-9f4aebebb3fe.mp4
 
-
+2. Output of the application
+```
